@@ -7,3 +7,11 @@ Tecnologias utilizadas:
 - Reconhecimento de Voz (speech_recognition) e (pyttsx3): Para capturar o nome do jogador pelo microfone e para a voz do "Game Over".
 - JSON: Para salvar o ranking de pontuações.
 - cx_Freeze: Para transformar o projeto em um arquivo executável (.exe).
+
+
+
+
+
+
+
+-Testador do Jogo: Murilo Trevisol Dalmolin 1138129
